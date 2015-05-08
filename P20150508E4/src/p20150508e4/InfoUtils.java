@@ -2,11 +2,12 @@
  * 
  */
 package p20150508e4;
-
+//hola caracolaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 /**
  * Utilidades relacionadas con la informática.
  * Desarrollado para la prueba de recuperación P20150508.
  * @author jlcruz-cifp
+ * HELENAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
  */
 public class InfoUtils {
 
